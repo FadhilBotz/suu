@@ -22,17 +22,17 @@ global.limitCount = 70 //70 Dah Pas Banh
 global.prefa = ['','.','/','#']
 
 //===> UBAH DISINI
-global.namaowner = 'Ryuuka Team' //Ganti Jadi Namamu
-global.owner = ['6285609233482','6283891921787'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285609233482' //Owner Utama Istilahnya
-global.namabot = 'Hiruko Kagetane' //Ganti Jadi Nama Botmu
-global.packname = 'Hiruko Kagetane' //Sticker Weem
-global.author = 'By Ryuuka Team' //Sticker Weem
+global.namaowner = 'HERMAN STORE' //Ganti Jadi Namamu
+global.owner = ['6288271771627','6288271771627'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '6288271771627' //Owner Utama Istilahnya
+global.namabot = 'HERMAN BOTZ' //Ganti Jadi Nama Botmu
+global.packname = 'OHAYO!!' //Sticker Weem
+global.author = 'By HERMAN STORE' //Sticker Weem
 global.webme = 'https://api-ryubotz.herokuapp.com' //Ganti Sama Web Mu
 global.linkgroup = 'https://chat.whatsapp.com/BhOYdoWNRFC4n4bdsEexlV' //Ganti Sama Link Gc Mu
 global.sessionName = 'session'
-global.youtube = 'https://youtube.com/c/RyuukaBotz' //Ganti Sama Link Yt Mu
-global.github = 'https://github.com/R-TEAM94' //Ganti Sama Link Github Mu
+global.youtube = 'https://youtube.com/channel/UCoP-Swnjs-4za1CNBqJdzCQ' //Ganti Sama Link Yt Mu
+global.github = 'https://github.com/FadhilBotz' //Ganti Sama Link Github Mu
 global.instagram = 'https://instagram.com/fandyyy._' //Ganti Sama Link Ig mu
 
 //===> BACKGROUND SETIAP MENU
